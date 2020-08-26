@@ -10,3 +10,11 @@ This project was made to include a mp3 player functionality. The whole project w
 * A login screen to login to account and a sign up feature to create an account.
 * An Upload button to upload your song to the database.
 
+## Login Screen
+<img width="50%" height="50%" src="Capture.PNG"/>
+
+## Player Screen
+<img width="50%" height="50%" src="music player.PNG"/>
+
+## Database Schema
+<img width="50%" height="50%" src="database schema.PNG"/>
