@@ -1,4 +1,5 @@
-# MuStream (Project Link-<a href="mustream.infinityfreeapp.com">mustream.infinityfreeapp.com</a>)
+# MuStream 
+## (Project Link-<a href="http://mustream.infinityfreeapp.com/register.php">http://mustream.infinityfreeapp.com/register.php</a>)
 A music streaming web application made using php.
 This project was made to include a mp3 player functionality. The whole project was made using CSS, HTML, JavaScript, Php and MySql. 
 
